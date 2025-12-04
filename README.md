@@ -1,13 +1,13 @@
 <p align="center">
   <samp>
-    GQLiu<br>
+    GQLiu · Rabbittank<br>
   </samp>
 </p>
 
 ---
 
 ### Toolkit
-`Java` · `Spring` · `TypeScript` · `Node` · `Docker` · `K8s` · `Postgres` · `Redis`
+`Java` · `SpringBoot` · `TypeScript` · `Node` · `Docker` · `MySQL` · `Redis`
 
 ### Activity
 <p align="center">
