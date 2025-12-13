@@ -26,9 +26,9 @@
 </p>
 
 ### Activity
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GQLiu1001&theme=transparent&hide_border=true&ring=6aa5c1&fire=9bb9cc&currStreakLabel=6aa5c1" alt="GitHub streak" height="165" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GQLiu1001/GQLiu1001/output/github-contribution-grid-snake.svg" alt="contribution snake" />
